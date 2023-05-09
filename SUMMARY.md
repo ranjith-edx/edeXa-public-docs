@@ -1,3 +1,16 @@
 # Table of contents
 
-* [edeXa-public-docs](README.md)
+* [Add edeXa chain to metamask](README.md)
+* [Ethereum Virtual Machine (EVM)?](ethereum-virtual-machine-evm.md)
+* ["Hello World" Smart Contract](hello-world-smart-contract.md)
+* [smart contracts remix solidity deploying](smart-contracts-remix-solidity-deploying.md)
+* [Deploy ERC-20 in edeXa](deploy-erc-20-in-edexa.md)
+* [Deploy a smart contract with Hardhat](deploy-a-smart-contract-with-hardhat.md)
+* [Smart Contract Factory](smart-contract-factory.md)
+* [Generate a New Edexa Address in JavaScript](generate-a-new-edexa-address-in-javascript.md)
+* [Lazy Mint an NFT on Rarible with Rarepress](lazy-mint-an-nft-on-rarible-with-rarepress.md)
+* [NFT](nft/README.md)
+  * [Part 1 : Mint NFT on edeXa chain](nft/part-1-mint-nft-on-edexa-chain.md)
+  * [Part 2 : HOW TO MINT AN NFT](nft/part-2-how-to-mint-an-nft.md)
+  * [Part 3 : HOW TO VIEW YOUR NFT IN YOUR WALLET](nft/part-3-how-to-view-your-nft-in-your-wallet.md)
+  * [Deploy an EDX-1155 NFT](nft/deploy-an-edx-1155-nft.md)
